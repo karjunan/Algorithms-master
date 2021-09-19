@@ -1,0 +1,2086 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CombinationSum",
+            "request": "launch",
+            "mainClass": "com.backtracking.CombinationSum",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LetterCasePermutation",
+            "request": "launch",
+            "mainClass": "com.backtracking.LetterCasePermutation",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - GenerateParanthses",
+            "request": "launch",
+            "mainClass": "com.backtracking.GenerateParanthses",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SearchMinElementInPartialySortedArray",
+            "request": "launch",
+            "mainClass": "com.search.SearchMinElementInPartialySortedArray",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PermutationsWithSwapping",
+            "request": "launch",
+            "mainClass": "com.backtracking.PermutationsWithSwapping",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Map1<algo>",
+            "request": "launch",
+            "mainClass": "com.MapImpl.Map1",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BST<algo>",
+            "request": "launch",
+            "mainClass": "com.algorithms.algoExpert.BST",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-CoinChangeProblem<algo>",
+            "request": "launch",
+            "mainClass": "com.algorithms.algoExpert.CoinChangeProblem",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FindAllPalindromicSubStrings<algo>",
+            "request": "launch",
+            "mainClass": "com.algorithms.algoExpert.FindAllPalindromicSubStrings",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FindMinMaxFromStack<algo>",
+            "request": "launch",
+            "mainClass": "com.algorithms.algoExpert.FindMinMaxFromStack",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-HeapSort<algo>",
+            "request": "launch",
+            "mainClass": "com.algorithms.algoExpert.HeapSort",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LevenshteinsDistance<algo>",
+            "request": "launch",
+            "mainClass": "com.algorithms.algoExpert.LevenshteinsDistance",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LongestCommonSubsequence<algo>",
+            "request": "launch",
+            "mainClass": "com.algorithms.algoExpert.LongestCommonSubsequence",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LongestIncreasingSubsequence<algo>",
+            "request": "launch",
+            "mainClass": "com.algorithms.algoExpert.LongestIncreasingSubsequence",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LongestSubstringWithoutDuplication<algo>",
+            "request": "launch",
+            "mainClass": "com.algorithms.algoExpert.LongestSubstringWithoutDuplication",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MaxCoinWithShortestDistance<algo>",
+            "request": "launch",
+            "mainClass": "com.algorithms.algoExpert.MaxCoinWithShortestDistance",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MinHeap<algo>",
+            "request": "launch",
+            "mainClass": "com.algorithms.algoExpert.MinHeap",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MinimumCoinsToMakeChange<algo>",
+            "request": "launch",
+            "mainClass": "com.algorithms.algoExpert.MinimumCoinsToMakeChange",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MinimumDistanceBetweenTwoNumbers<algo>",
+            "request": "launch",
+            "mainClass": "com.algorithms.algoExpert.MinimumDistanceBetweenTwoNumbers",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MinimumJumps<algo>",
+            "request": "launch",
+            "mainClass": "com.algorithms.algoExpert.MinimumJumps",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Permutations<algo>",
+            "request": "launch",
+            "mainClass": "com.algorithms.algoExpert.Permutations",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-PowerSet<algo>",
+            "request": "launch",
+            "mainClass": "com.algorithms.algoExpert.PowerSet",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-QuickSort<algo>",
+            "request": "launch",
+            "mainClass": "com.algorithms.algoExpert.QuickSort",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SuffixTree<algo>",
+            "request": "launch",
+            "mainClass": "com.algorithms.algoExpert.SuffixTree",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ThreeLargestSum<algo>",
+            "request": "launch",
+            "mainClass": "com.algorithms.algoExpert.ThreeLargestSum",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TopologicalSort<algo>",
+            "request": "launch",
+            "mainClass": "com.algorithms.algoExpert.TopologicalSort",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Triplets<algo>",
+            "request": "launch",
+            "mainClass": "com.algorithms.algoExpert.Triplets",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TwoSumSubset<algo>",
+            "request": "launch",
+            "mainClass": "com.algorithms.algoExpert.TwoSumSubset",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LinkedList<algo>",
+            "request": "launch",
+            "mainClass": "com.algorithms.algoExpert.easy.LinkedList",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TwoNumberSum<algo>",
+            "request": "launch",
+            "mainClass": "com.algorithms.algoExpert.easy.TwoNumberSum",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-AddPreviousValueArrayRecursion<algo>",
+            "request": "launch",
+            "mainClass": "com.algorithms.arrayproblems.AddPreviousValueArrayRecursion",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-AllUnique<algo>",
+            "request": "launch",
+            "mainClass": "com.algorithms.arrayproblems.AllUnique",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-AnagramSequence<algo>",
+            "request": "launch",
+            "mainClass": "com.algorithms.arrayproblems.AnagramSequence",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Anagrams<algo>",
+            "request": "launch",
+            "mainClass": "com.algorithms.arrayproblems.Anagrams",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ArrayRotation<algo>",
+            "request": "launch",
+            "mainClass": "com.algorithms.arrayproblems.ArrayRotation",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ArraySumManipulation<algo>",
+            "request": "launch",
+            "mainClass": "com.algorithms.arrayproblems.ArraySumManipulation",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ArrayValueIntersection<algo>",
+            "request": "launch",
+            "mainClass": "com.algorithms.arrayproblems.ArrayValueIntersection",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BalancedParantheses<algo>",
+            "request": "launch",
+            "mainClass": "com.algorithms.arrayproblems.BalancedParantheses",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BinarySearch<algo>",
+            "request": "launch",
+            "mainClass": "com.algorithms.arrayproblems.BinarySearch",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ChangeSpaceToDifferentCharacter<algo>",
+            "request": "launch",
+            "mainClass": "com.algorithms.arrayproblems.ChangeSpaceToDifferentCharacter",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-CountCharacters<algo>",
+            "request": "launch",
+            "mainClass": "com.algorithms.arrayproblems.CountCharacters",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DecodingMessages<algo>",
+            "request": "launch",
+            "mainClass": "com.algorithms.arrayproblems.DecodingMessages",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Equilibirium<algo>",
+            "request": "launch",
+            "mainClass": "com.algorithms.arrayproblems.Equilibirium",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Factorial<algo>",
+            "request": "launch",
+            "mainClass": "com.algorithms.arrayproblems.Factorial",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Fibonacci<algo>",
+            "request": "launch",
+            "mainClass": "com.algorithms.arrayproblems.Fibonacci",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FileRecursion<algo>",
+            "request": "launch",
+            "mainClass": "com.algorithms.arrayproblems.FileRecursion",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FindMedianOfTwoArrays<algo>",
+            "request": "launch",
+            "mainClass": "com.algorithms.arrayproblems.FindMedianOfTwoArrays",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FindMissingNumber<algo>",
+            "request": "launch",
+            "mainClass": "com.algorithms.arrayproblems.FindMissingNumber",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FindSubarrayGreaterThanGivenValue<algo>",
+            "request": "launch",
+            "mainClass": "com.algorithms.arrayproblems.FindSubarrayGreaterThanGivenValue",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FindSubsequenceInTwoStrings<algo>",
+            "request": "launch",
+            "mainClass": "com.algorithms.arrayproblems.FindSubsequenceInTwoStrings",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FindSumPair<algo>",
+            "request": "launch",
+            "mainClass": "com.algorithms.arrayproblems.FindSumPair",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FloatPointingNumber<algo>",
+            "request": "launch",
+            "mainClass": "com.algorithms.arrayproblems.FloatPointingNumber",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-GradingStudents<algo>",
+            "request": "launch",
+            "mainClass": "com.algorithms.arrayproblems.GradingStudents",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-GradingStudents1<algo>",
+            "request": "launch",
+            "mainClass": "com.algorithms.arrayproblems.GradingStudents1",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Hashing<algo>",
+            "request": "launch",
+            "mainClass": "com.algorithms.arrayproblems.Hashing",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-KDiffPair<algo>",
+            "request": "launch",
+            "mainClass": "com.algorithms.arrayproblems.KDiffPair",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LongestCommonSubsequence<algo>(1)",
+            "request": "launch",
+            "mainClass": "com.algorithms.arrayproblems.LongestCommonSubsequence",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LongestRange<algo>",
+            "request": "launch",
+            "mainClass": "com.algorithms.arrayproblems.LongestRange",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MatrixRotation<algo>",
+            "request": "launch",
+            "mainClass": "com.algorithms.arrayproblems.MatrixRotation",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MaxInSubArray<algo>",
+            "request": "launch",
+            "mainClass": "com.algorithms.arrayproblems.MaxInSubArray",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MergeSort<algo>",
+            "request": "launch",
+            "mainClass": "com.algorithms.arrayproblems.MergeSort",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MinRewards<algo>",
+            "request": "launch",
+            "mainClass": "com.algorithms.arrayproblems.MinRewards",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MinSwapsToBringElementsToOneSide<algo>",
+            "request": "launch",
+            "mainClass": "com.algorithms.arrayproblems.MinSwapsToBringElementsToOneSide",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MinimumSwaps<algo>",
+            "request": "launch",
+            "mainClass": "com.algorithms.arrayproblems.MinimumSwaps",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-NegativeToBeginning<algo>",
+            "request": "launch",
+            "mainClass": "com.algorithms.arrayproblems.NegativeToBeginning",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-NumberOfSegments<algo>",
+            "request": "launch",
+            "mainClass": "com.algorithms.arrayproblems.NumberOfSegments",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-OddEvenArrayArrangement<algo>",
+            "request": "launch",
+            "mainClass": "com.algorithms.arrayproblems.OddEvenArrayArrangement",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-OddEvenRearrange<algo>",
+            "request": "launch",
+            "mainClass": "com.algorithms.arrayproblems.OddEvenRearrange",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-OneEditAway<algo>",
+            "request": "launch",
+            "mainClass": "com.algorithms.arrayproblems.OneEditAway",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-PairShort<algo>",
+            "request": "launch",
+            "mainClass": "com.algorithms.arrayproblems.PairShort",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-PowerOf10<algo>",
+            "request": "launch",
+            "mainClass": "com.algorithms.arrayproblems.PowerOf10",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-PrimeNumberGenerator<algo>",
+            "request": "launch",
+            "mainClass": "com.algorithms.arrayproblems.PrimeNumberGenerator",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-PrintDistinceWithoutUsingMap<algo>",
+            "request": "launch",
+            "mainClass": "com.algorithms.arrayproblems.PrintDistinceWithoutUsingMap",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-PrintTriangle<algo>",
+            "request": "launch",
+            "mainClass": "com.algorithms.arrayproblems.PrintTriangle",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-QueueUsingStack<algo>",
+            "request": "launch",
+            "mainClass": "com.algorithms.arrayproblems.QueueUsingStack",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-RearrangeChars<algo>",
+            "request": "launch",
+            "mainClass": "com.algorithms.arrayproblems.RearrangeChars",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-RecursiveAdd<algo>",
+            "request": "launch",
+            "mainClass": "com.algorithms.arrayproblems.RecursiveAdd",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-RepeatingCharCount<algo>",
+            "request": "launch",
+            "mainClass": "com.algorithms.arrayproblems.RepeatingCharCount",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ReversePairs<algo>",
+            "request": "launch",
+            "mainClass": "com.algorithms.arrayproblems.ReversePairs",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ReverseStack<algo>",
+            "request": "launch",
+            "mainClass": "com.algorithms.arrayproblems.ReverseStack",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ReverseString<algo>",
+            "request": "launch",
+            "mainClass": "com.algorithms.arrayproblems.ReverseString",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-RsaCrypto<algo>",
+            "request": "launch",
+            "mainClass": "com.algorithms.arrayproblems.RsaCrypto",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SecondMinimum<algo>",
+            "request": "launch",
+            "mainClass": "com.algorithms.arrayproblems.SecondMinimum",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SetZero<algo>",
+            "request": "launch",
+            "mainClass": "com.algorithms.arrayproblems.SetZero",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SmallestDifference<algo>",
+            "request": "launch",
+            "mainClass": "com.algorithms.arrayproblems.SmallestDifference",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SmallestSubarray<algo>",
+            "request": "launch",
+            "mainClass": "com.algorithms.arrayproblems.SmallestSubarray",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SortInOneSwap<algo>",
+            "request": "launch",
+            "mainClass": "com.algorithms.arrayproblems.SortInOneSwap",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SortStack<algo>",
+            "request": "launch",
+            "mainClass": "com.algorithms.arrayproblems.SortStack",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SortTwoIntegerArrays<algo>",
+            "request": "launch",
+            "mainClass": "com.algorithms.arrayproblems.SortTwoIntegerArrays",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SparceMatrix<algo>",
+            "request": "launch",
+            "mainClass": "com.algorithms.arrayproblems.SparceMatrix",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StackRecursion<algo>",
+            "request": "launch",
+            "mainClass": "com.algorithms.arrayproblems.StackRecursion",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StringContainInSingleCheck<algo>",
+            "request": "launch",
+            "mainClass": "com.algorithms.arrayproblems.StringContainInSingleCheck",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SubArraySort<algo>",
+            "request": "launch",
+            "mainClass": "com.algorithms.arrayproblems.SubArraySort",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SwapZeroToLast<algo>",
+            "request": "launch",
+            "mainClass": "com.algorithms.arrayproblems.SwapZeroToLast",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ThirdLargestElement<algo>",
+            "request": "launch",
+            "mainClass": "com.algorithms.arrayproblems.ThirdLargestElement",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-UniqueCharacters<algo>",
+            "request": "launch",
+            "mainClass": "com.algorithms.arrayproblems.UniqueCharacters",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ZigZagConversion<algo>",
+            "request": "launch",
+            "mainClass": "com.algorithms.arrayproblems.ZigZagConversion",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-kadanes<algo>",
+            "request": "launch",
+            "mainClass": "com.algorithms.arrayproblems.kadanes",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LongestPalindromicSubstring<algo>",
+            "request": "launch",
+            "mainClass": "com.algorithms.groupon.LongestPalindromicSubstring",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LongestCommonPrefix<algo>",
+            "request": "launch",
+            "mainClass": "com.algorithms.leetCode.LongestCommonPrefix",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MyAtoi<algo>",
+            "request": "launch",
+            "mainClass": "com.algorithms.leetCode.MyAtoi",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ReverseOnlyLetter<algo>",
+            "request": "launch",
+            "mainClass": "com.algorithms.leetCode.ReverseOnlyLetter",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SubsetsRecurssion<algo>",
+            "request": "launch",
+            "mainClass": "com.algorithms.leetCode.SubsetsRecurssion",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BinaryToDecimalRecursive<algo>",
+            "request": "launch",
+            "mainClass": "com.algorithms.recursion.BinaryToDecimalRecursive",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-CheckIfNumberISPalindromeRecursive<algo>",
+            "request": "launch",
+            "mainClass": "com.algorithms.recursion.CheckIfNumberISPalindromeRecursive",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DecimalToBinaryRecursive<algo>",
+            "request": "launch",
+            "mainClass": "com.algorithms.recursion.DecimalToBinaryRecursive",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FibSeries<algo>",
+            "request": "launch",
+            "mainClass": "com.algorithms.recursion.FibSeries",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-InsertionSortRecursive<algo>",
+            "request": "launch",
+            "mainClass": "com.algorithms.recursion.InsertionSortRecursive",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-PalindromePartitioning<algo>",
+            "request": "launch",
+            "mainClass": "com.algorithms.recursion.PalindromePartitioning",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SelectionSortRecursive<algo>",
+            "request": "launch",
+            "mainClass": "com.algorithms.recursion.SelectionSortRecursive",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BasicSortingAlgorithms<algo>",
+            "request": "launch",
+            "mainClass": "com.algorithms.sort.BasicSortingAlgorithms",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BubbleSort<algo>",
+            "request": "launch",
+            "mainClass": "com.algorithms.sort.BubbleSort",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-InsertionSort<algo>",
+            "request": "launch",
+            "mainClass": "com.algorithms.sort.InsertionSort",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-QuickSort<algo>(1)",
+            "request": "launch",
+            "mainClass": "com.algorithms.sort.QuickSort",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SelectionSort<algo>",
+            "request": "launch",
+            "mainClass": "com.algorithms.sort.SelectionSort",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BalancedParantheses<algo>(1)",
+            "request": "launch",
+            "mainClass": "com.backtracking.BalancedParantheses",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Coinchange<algo>",
+            "request": "launch",
+            "mainClass": "com.backtracking.Coinchange",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FindAllSubSets<algo>",
+            "request": "launch",
+            "mainClass": "com.backtracking.FindAllSubSets",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LargestNumber<algo>",
+            "request": "launch",
+            "mainClass": "com.backtracking.LargestNumber",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MaximumRoutesMatrix<algo>",
+            "request": "launch",
+            "mainClass": "com.backtracking.MaximumRoutesMatrix",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-NQueens<algo>",
+            "request": "launch",
+            "mainClass": "com.backtracking.NQueens",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-NQueens1<algo>",
+            "request": "launch",
+            "mainClass": "com.backtracking.NQueens1",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-NStepsProblem<algo>",
+            "request": "launch",
+            "mainClass": "com.backtracking.NStepsProblem",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-NumOfTilesPossibilities<algo>",
+            "request": "launch",
+            "mainClass": "com.backtracking.NumOfTilesPossibilities",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-PermutationAndCombination<algo>",
+            "request": "launch",
+            "mainClass": "com.backtracking.PermutationAndCombination",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-PermutationWithRecurssionUsingList<algo>",
+            "request": "launch",
+            "mainClass": "com.backtracking.PermutationWithRecurssionUsingList",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-PrintAllPaths<algo>",
+            "request": "launch",
+            "mainClass": "com.backtracking.PrintAllPaths",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-PrintBinary<algo>",
+            "request": "launch",
+            "mainClass": "com.backtracking.PrintBinary",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-PrintDecimals<algo>",
+            "request": "launch",
+            "mainClass": "com.backtracking.PrintDecimals",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-RatMaze<algo>",
+            "request": "launch",
+            "mainClass": "com.backtracking.RatMaze",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-RatMazeComplex1<algo>",
+            "request": "launch",
+            "mainClass": "com.backtracking.RatMazeComplex1",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SubArrayProblem<algo>",
+            "request": "launch",
+            "mainClass": "com.backtracking.SubArrayProblem",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SubSetSum<algo>",
+            "request": "launch",
+            "mainClass": "com.backtracking.SubSetSum",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-WordBreak<algo>",
+            "request": "launch",
+            "mainClass": "com.backtracking.WordBreak",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FloatDivision<algo>",
+            "request": "launch",
+            "mainClass": "com.binary.FloatDivision",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-RoundOff<algo>",
+            "request": "launch",
+            "mainClass": "com.binary.RoundOff",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TwosComplement<algo>",
+            "request": "launch",
+            "mainClass": "com.binary.TwosComplement",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ReverseBits<algo>",
+            "request": "launch",
+            "mainClass": "com.bit.ReverseBits",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-CustomBigIntegerImpl<algo>",
+            "request": "launch",
+            "mainClass": "com.custom.CustomBigIntegerImpl",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Latest<algo>",
+            "request": "launch",
+            "mainClass": "com.custom.Latest",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-NewTest<algo>",
+            "request": "launch",
+            "mainClass": "com.custom.NewTest",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StringAlgo<algo>",
+            "request": "launch",
+            "mainClass": "com.custom.StringAlgo",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-CompressionAndDecompression<algo>",
+            "request": "launch",
+            "mainClass": "com.cyrptography.CompressionAndDecompression",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-PseudoRandomNumber<algo>",
+            "request": "launch",
+            "mainClass": "com.cyrptography.PseudoRandomNumber",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SecureRandomNumber<algo>",
+            "request": "launch",
+            "mainClass": "com.cyrptography.SecureRandomNumber",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BinarySearchTree<algo>",
+            "request": "launch",
+            "mainClass": "com.datastructures.BinarySearchTree",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BinaryTree<algo>",
+            "request": "launch",
+            "mainClass": "com.datastructures.BinaryTree",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-CircularLinkedList<algo>",
+            "request": "launch",
+            "mainClass": "com.datastructures.CircularLinkedList",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DoublyLinkedList<algo>",
+            "request": "launch",
+            "mainClass": "com.datastructures.DoublyLinkedList",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Heap<algo>",
+            "request": "launch",
+            "mainClass": "com.datastructures.Heap",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LinkedList<algo>(1)",
+            "request": "launch",
+            "mainClass": "com.datastructures.LinkedList",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MyMap<algo>",
+            "request": "launch",
+            "mainClass": "com.datastructures.MyMap",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Stack<algo>",
+            "request": "launch",
+            "mainClass": "com.datastructures.Stack",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Trie<algo>",
+            "request": "launch",
+            "mainClass": "com.datastructures.Trie",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Graph<algo>",
+            "request": "launch",
+            "mainClass": "com.datastructures.graph.Graph",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BagProblem<algo>",
+            "request": "launch",
+            "mainClass": "com.desgnPatterens.BagProblem",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-CountAllPathMatrix<algo>",
+            "request": "launch",
+            "mainClass": "com.dynamicProgramming.CountAllPathMatrix",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-KadanesAlgorithm<algo>",
+            "request": "launch",
+            "mainClass": "com.dynamicProgramming.KadanesAlgorithm",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-KadanesSubArraySum<algo>",
+            "request": "launch",
+            "mainClass": "com.dynamicProgramming.KadanesSubArraySum",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LargestCommonSubstring<algo>",
+            "request": "launch",
+            "mainClass": "com.dynamicProgramming.LargestCommonSubstring",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LongestCommonSubsequence<algo>(2)",
+            "request": "launch",
+            "mainClass": "com.dynamicProgramming.LongestCommonSubsequence",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LongestPalindromicSubstring<algo>(1)",
+            "request": "launch",
+            "mainClass": "com.dynamicProgramming.LongestPalindromicSubstring",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LongestSubstring<algo>",
+            "request": "launch",
+            "mainClass": "com.dynamicProgramming.LongestSubstring",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MaximumArraySumAlternatingElements<algo>",
+            "request": "launch",
+            "mainClass": "com.dynamicProgramming.MaximumArraySumAlternatingElements",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MaximumSubsetSumNonAdjecent<algo>",
+            "request": "launch",
+            "mainClass": "com.dynamicProgramming.MaximumSubsetSumNonAdjecent",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-RodCuttingProblem<algo>",
+            "request": "launch",
+            "mainClass": "com.dynamicProgramming.RodCuttingProblem",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-CheckedExceptionValidation<algo>",
+            "request": "launch",
+            "mainClass": "com.exceptions.CheckedExceptionValidation",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-CompletableFutureExceptionallly<algo>",
+            "request": "launch",
+            "mainClass": "com.exceptions.CompletableFutureExceptionallly",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-OverrideExceptiionsTest<algo>",
+            "request": "launch",
+            "mainClass": "com.exceptions.OverrideExceptiionsTest",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-RunTimeExceptionValidate<algo>",
+            "request": "launch",
+            "mainClass": "com.exceptions.RunTimeExceptionValidate",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LeftMostNonRepeatingCharacter<algo>",
+            "request": "launch",
+            "mainClass": "com.geeksForgeeks.LeftMostNonRepeatingCharacter",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LeftMostRepeatingCharacter<algo>",
+            "request": "launch",
+            "mainClass": "com.geeksForgeeks.LeftMostRepeatingCharacter",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TrappingRainWater<algo>",
+            "request": "launch",
+            "mainClass": "com.geeksForgeeks.TrappingRainWater",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-GenericInterfaceImpl<algo>",
+            "request": "launch",
+            "mainClass": "com.generics.GenericInterfaceImpl",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-GenericTest<algo>",
+            "request": "launch",
+            "mainClass": "com.generics.GenericTest",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-GenericService<algo>",
+            "request": "launch",
+            "mainClass": "com.generics.designIssues.GenericService",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-AddWithoutArithimiticOperators<algo>",
+            "request": "launch",
+            "mainClass": "com.google.AddWithoutArithimiticOperators",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Avl<algo>",
+            "request": "launch",
+            "mainClass": "com.google.Avl",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BinarySearch<algo>(1)",
+            "request": "launch",
+            "mainClass": "com.google.BinarySearch",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BinarySubarraysWithSum<algo>",
+            "request": "launch",
+            "mainClass": "com.google.BinarySubarraysWithSum",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BinaryTree<algo>(1)",
+            "request": "launch",
+            "mainClass": "com.google.BinaryTree",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Bst<algo>",
+            "request": "launch",
+            "mainClass": "com.google.Bst",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-CoinChangeProblem<algo>(1)",
+            "request": "launch",
+            "mainClass": "com.google.CoinChangeProblem",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ConvertDecimalToBinary<algo>",
+            "request": "launch",
+            "mainClass": "com.google.ConvertDecimalToBinary",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DiagonalMatrixPrinting<algo>",
+            "request": "launch",
+            "mainClass": "com.google.DiagonalMatrixPrinting",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-EqualSubSetSumPartitionn<algo>",
+            "request": "launch",
+            "mainClass": "com.google.EqualSubSetSumPartitionn",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Find2S<algo>",
+            "request": "launch",
+            "mainClass": "com.google.Find2S",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FindAnagrams<algo>",
+            "request": "launch",
+            "mainClass": "com.google.FindAnagrams",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FindLargestRectangleInHistogram<algo>",
+            "request": "launch",
+            "mainClass": "com.google.FindLargestRectangleInHistogram",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FindPermuationOfStringInAnotherString<algo>",
+            "request": "launch",
+            "mainClass": "com.google.FindPermuationOfStringInAnotherString",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-GenerateBinaryUsingQueue<algo>",
+            "request": "launch",
+            "mainClass": "com.google.GenerateBinaryUsingQueue",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-GenerateNumbersWithGivenDigits<algo>",
+            "request": "launch",
+            "mainClass": "com.google.GenerateNumbersWithGivenDigits",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Graph<algo>(1)",
+            "request": "launch",
+            "mainClass": "com.google.Graph",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LinkedList<algo>(2)",
+            "request": "launch",
+            "mainClass": "com.google.LinkedList",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LongestCommonSubsequence<algo>(3)",
+            "request": "launch",
+            "mainClass": "com.google.LongestCommonSubsequence",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LongestCommonSubstring<algo>",
+            "request": "launch",
+            "mainClass": "com.google.LongestCommonSubstring",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LongestPalindromicSubstring<algo>(2)",
+            "request": "launch",
+            "mainClass": "com.google.LongestPalindromicSubstring",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LongestRepeatedSubstring<algo>",
+            "request": "launch",
+            "mainClass": "com.google.LongestRepeatedSubstring",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LongestSubstringWithAtleastKRepeatingCharacters<algo>",
+            "request": "launch",
+            "mainClass": "com.google.LongestSubstringWithAtleastKRepeatingCharacters",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LongestSubstringWithKDistinctChar<algo>",
+            "request": "launch",
+            "mainClass": "com.google.LongestSubstringWithKDistinctChar",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MatrixRandomValues<algo>",
+            "request": "launch",
+            "mainClass": "com.google.MatrixRandomValues",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MaxHeap<algo>",
+            "request": "launch",
+            "mainClass": "com.google.MaxHeap",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MaxSlidingWindow<algo>",
+            "request": "launch",
+            "mainClass": "com.google.MaxSlidingWindow",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MaximumProfitWithKTranscations<algo>",
+            "request": "launch",
+            "mainClass": "com.google.MaximumProfitWithKTranscations",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MaximumSubSetSumNonAdjacency<algo>",
+            "request": "launch",
+            "mainClass": "com.google.MaximumSubSetSumNonAdjacency",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MaximumSumSubarray<algo>",
+            "request": "launch",
+            "mainClass": "com.google.MaximumSumSubarray",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MergeSort<algo>(1)",
+            "request": "launch",
+            "mainClass": "com.google.MergeSort",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MinimumFibonacci<algo>",
+            "request": "launch",
+            "mainClass": "com.google.MinimumFibonacci",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MinimumWidowSum<algo>",
+            "request": "launch",
+            "mainClass": "com.google.MinimumWidowSum",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MinimumWindowSubstring<algo>",
+            "request": "launch",
+            "mainClass": "com.google.MinimumWindowSubstring",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MininumNumberOfCoinChange<algo>",
+            "request": "launch",
+            "mainClass": "com.google.MininumNumberOfCoinChange",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-NQueens<algo>(1)",
+            "request": "launch",
+            "mainClass": "com.google.NQueens",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-NumberPalindrome<algo>",
+            "request": "launch",
+            "mainClass": "com.google.NumberPalindrome",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-PalindromeNumbers<algo>",
+            "request": "launch",
+            "mainClass": "com.google.PalindromeNumbers",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Permutations<algo>(1)",
+            "request": "launch",
+            "mainClass": "com.google.Permutations",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-PhoneDigitExploration<algo>",
+            "request": "launch",
+            "mainClass": "com.google.PhoneDigitExploration",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-QuickSort<algo>(2)",
+            "request": "launch",
+            "mainClass": "com.google.QuickSort",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-RemoveOuterParantheses<algo>",
+            "request": "launch",
+            "mainClass": "com.google.RemoveOuterParantheses",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-RepeatingNumberExceptOne<algo>",
+            "request": "launch",
+            "mainClass": "com.google.RepeatingNumberExceptOne",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SlidingWindowMaximum<algo>",
+            "request": "launch",
+            "mainClass": "com.google.SlidingWindowMaximum",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SortingPair<algo>",
+            "request": "launch",
+            "mainClass": "com.google.SortingPair",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Subsets<algo>",
+            "request": "launch",
+            "mainClass": "com.google.Subsets",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SumOfSubSets<algo>",
+            "request": "launch",
+            "mainClass": "com.google.SumOfSubSets",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Test<algo>",
+            "request": "launch",
+            "mainClass": "com.google.Test",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Trie<algo>(1)",
+            "request": "launch",
+            "mainClass": "com.google.Trie",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-UniquePaths<algo>",
+            "request": "launch",
+            "mainClass": "com.google.UniquePaths",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-WordBreak<algo>(1)",
+            "request": "launch",
+            "mainClass": "com.google.WordBreak",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-factorial<algo>",
+            "request": "launch",
+            "mainClass": "com.google.factorial",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Anagram<algo>",
+            "request": "launch",
+            "mainClass": "com.java8.Anagram",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BinaryOperator<algo>",
+            "request": "launch",
+            "mainClass": "com.java8.BinaryOperator",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ByteArrayExample<algo>",
+            "request": "launch",
+            "mainClass": "com.java8.ByteArrayExample",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-CharsTest<algo>",
+            "request": "launch",
+            "mainClass": "com.java8.CharsTest",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-CollectorIntStreamExample<algo>",
+            "request": "launch",
+            "mainClass": "com.java8.CollectorIntStreamExample",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-CollectorsExample<algo>",
+            "request": "launch",
+            "mainClass": "com.java8.CollectorsExample",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-CollectorsGrouping<algo>",
+            "request": "launch",
+            "mainClass": "com.java8.CollectorsGrouping",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-CollectorsGrouping1<algo>",
+            "request": "launch",
+            "mainClass": "com.java8.CollectorsGrouping1",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-EnumsExamples<algo>",
+            "request": "launch",
+            "mainClass": "com.java8.EnumsExamples",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-GroupBy<algo>",
+            "request": "launch",
+            "mainClass": "com.java8.GroupBy",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-GroupingBy<algo>",
+            "request": "launch",
+            "mainClass": "com.java8.GroupingBy",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LocalDateResearch<algo>",
+            "request": "launch",
+            "mainClass": "com.java8.LocalDateResearch",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MapApiExample<algo>",
+            "request": "launch",
+            "mainClass": "com.java8.MapApiExample",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MapExample<algo>",
+            "request": "launch",
+            "mainClass": "com.java8.MapExample",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MaptoInt<algo>",
+            "request": "launch",
+            "mainClass": "com.java8.MaptoInt",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-OnlyContainStrings<algo>",
+            "request": "launch",
+            "mainClass": "com.java8.OnlyContainStrings",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SpliteratorExample<algo>",
+            "request": "launch",
+            "mainClass": "com.java8.SpliteratorExample",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StringToStream<algo>",
+            "request": "launch",
+            "mainClass": "com.java8.StringToStream",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TakeWhileExample<algo>",
+            "request": "launch",
+            "mainClass": "com.java8.TakeWhileExample",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LongestSubarrayAfterDeletingOneElement<algo>",
+            "request": "launch",
+            "mainClass": "com.leetCode.LongestSubarrayAfterDeletingOneElement",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-RemoveDuplicatesFromString<algo>",
+            "request": "launch",
+            "mainClass": "com.leetCode.RemoveDuplicatesFromString",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-UniqueIntegersAfterKRemovals<algo>",
+            "request": "launch",
+            "mainClass": "com.leetCode.UniqueIntegersAfterKRemovals",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-AmicableNumber<algo>",
+            "request": "launch",
+            "mainClass": "com.math.AmicableNumber",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ConvertNumberToString<algo>",
+            "request": "launch",
+            "mainClass": "com.math.ConvertNumberToString",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-EvenFiboacci<algo>",
+            "request": "launch",
+            "mainClass": "com.math.EvenFiboacci",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-First100Fibonacci<algo>",
+            "request": "launch",
+            "mainClass": "com.math.First100Fibonacci",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-IntegerAddition<algo>",
+            "request": "launch",
+            "mainClass": "com.math.IntegerAddition",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LargestPalindrome<algo>",
+            "request": "launch",
+            "mainClass": "com.math.LargestPalindrome",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LargestProductSeries<algo>",
+            "request": "launch",
+            "mainClass": "com.math.LargestProductSeries",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LongSum<algo>",
+            "request": "launch",
+            "mainClass": "com.math.LongSum",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MultiplesOfThreeAndFive<algo>",
+            "request": "launch",
+            "mainClass": "com.math.MultiplesOfThreeAndFive",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-NamesCompare<algo>",
+            "request": "launch",
+            "mainClass": "com.math.NamesCompare",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-NumberToWords<algo>",
+            "request": "launch",
+            "mainClass": "com.math.NumberToWords",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-PrimeFactors<algo>",
+            "request": "launch",
+            "mainClass": "com.math.PrimeFactors",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-PrimeNumbers<algo>",
+            "request": "launch",
+            "mainClass": "com.math.PrimeNumbers",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-PythagoreanTriplet<algo>",
+            "request": "launch",
+            "mainClass": "com.math.PythagoreanTriplet",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SmallestMultiple<algo>",
+            "request": "launch",
+            "mainClass": "com.math.SmallestMultiple",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SumOfFactorials<algo>",
+            "request": "launch",
+            "mainClass": "com.math.SumOfFactorials",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SumOfPrimes<algo>",
+            "request": "launch",
+            "mainClass": "com.math.SumOfPrimes",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SumOfSqareOfNaturalNumbers<algo>",
+            "request": "launch",
+            "mainClass": "com.math.SumOfSqareOfNaturalNumbers",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TenThousandthPrimeNumber<algo>",
+            "request": "launch",
+            "mainClass": "com.math.TenThousandthPrimeNumber",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TwoPowerThousand<algo>",
+            "request": "launch",
+            "mainClass": "com.math.TwoPowerThousand",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FindMaxElementInSubarray<algo>",
+            "request": "launch",
+            "mainClass": "com.slidingWindow.FindMaxElementInSubarray",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FindSubarrayWithGivenSum<algo>",
+            "request": "launch",
+            "mainClass": "com.slidingWindow.FindSubarrayWithGivenSum",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LongestSubstringWithKDistinctCharacters<algo>",
+            "request": "launch",
+            "mainClass": "com.slidingWindow.LongestSubstringWithKDistinctCharacters",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LongestSubstringWithoutRepeatingCharacters<algo>",
+            "request": "launch",
+            "mainClass": "com.slidingWindow.LongestSubstringWithoutRepeatingCharacters",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MaxSumSubarray<algo>",
+            "request": "launch",
+            "mainClass": "com.slidingWindow.MaxSumSubarray",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MaximumForEachSubArray<algo>",
+            "request": "launch",
+            "mainClass": "com.slidingWindow.MaximumForEachSubArray",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MinimumSizeSubarraySum<algo>",
+            "request": "launch",
+            "mainClass": "com.slidingWindow.MinimumSizeSubarraySum",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SmallestSubarraySum<algo>",
+            "request": "launch",
+            "mainClass": "com.slidingWindow.SmallestSubarraySum",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-AnagramOnTwoStrings<algo>",
+            "request": "launch",
+            "mainClass": "com.string.AnagramOnTwoStrings",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BoyerMoreAlogrithm<algo>",
+            "request": "launch",
+            "mainClass": "com.string.BoyerMoreAlogrithm",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-CommonCharactersDPProblem<algo>",
+            "request": "launch",
+            "mainClass": "com.string.CommonCharactersDPProblem",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DIStringMatch<algo>",
+            "request": "launch",
+            "mainClass": "com.string.DIStringMatch",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FirstNonRepeatingCharacter<algo>",
+            "request": "launch",
+            "mainClass": "com.string.FirstNonRepeatingCharacter",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-KmpPatternBuilder<algo>",
+            "request": "launch",
+            "mainClass": "com.string.KmpPatternBuilder",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-KmpStringMatcher<algo>",
+            "request": "launch",
+            "mainClass": "com.string.KmpStringMatcher",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LongestPalindromicSubstring<algo>(3)",
+            "request": "launch",
+            "mainClass": "com.string.LongestPalindromicSubstring",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MissingCharacterToMakePanagram<algo>",
+            "request": "launch",
+            "mainClass": "com.string.MissingCharacterToMakePanagram",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Panagrams<algo>",
+            "request": "launch",
+            "mainClass": "com.string.Panagrams",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-RegexExample<algo>",
+            "request": "launch",
+            "mainClass": "com.string.RegexExample",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ReverseEveryWord<algo>",
+            "request": "launch",
+            "mainClass": "com.string.ReverseEveryWord",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ReverseWords<algo>",
+            "request": "launch",
+            "mainClass": "com.string.ReverseWords",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ShiftString<algo>",
+            "request": "launch",
+            "mainClass": "com.string.ShiftString",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SpecialPalindromes<algo>",
+            "request": "launch",
+            "mainClass": "com.string.SpecialPalindromes",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StringNumberOfLines<algo>",
+            "request": "launch",
+            "mainClass": "com.string.StringNumberOfLines",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Test<algo>(1)",
+            "request": "launch",
+            "mainClass": "com.test.emp.Test",
+            "projectName": "algo"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Thread1<algo>",
+            "request": "launch",
+            "mainClass": "com.threading.Thread1",
+            "projectName": "algo"
+        }
+    ]
+}

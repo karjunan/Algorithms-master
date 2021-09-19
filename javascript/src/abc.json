@@ -1,0 +1,22 @@
+{
+  "feeID": "4789",
+  "feeType": "Commission",
+  "feeDescription": "Commission for NSW",
+  "minimumFee": "100",
+  "maximumFee": "1000",
+  "inputParameter": "Selling Price",
+  "feeFormula": [
+    {
+      "range": [0, 100],
+      "type": "% of Input Parameter",
+      "value": "2.5",
+      "applyFeeTo": "input parameter"
+    },
+    {
+      "range": [101, 1000],
+      "type": "% of Input Parameter",
+      "value": "1.5",
+      "applyFeeTo": "input parameter"
+    }
+  ]
+}

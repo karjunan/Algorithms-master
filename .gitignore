@@ -1,0 +1,7 @@
+.idea/*
+algo.iml
+java/target/
+javascript/node-modules
+java/.project
+java/.settings/*
+java/.idea/*

@@ -1,0 +1,3 @@
+module algorithms {
+    requires jdk.incubator.httpclient;
+}

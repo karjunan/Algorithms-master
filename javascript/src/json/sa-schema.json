@@ -1,0 +1,67 @@
+{
+  "name": "IntegrationRecordEventData",
+  "type": "record",
+  "namespace": "com.pickles.model.VendorContract",
+  "fields": [
+    {
+      "name": "dateTimeOccurred",
+      "type": "string",
+      "default": "null"
+    },
+    {
+      "name": "data",
+      "type": {
+        "name": "data",
+        "type": "record",
+        "fields": [
+          {
+            "name": "serviceAgreementID",
+            "type": "string",
+            "default": "null"
+          },
+          {
+            "name": "fromDate",
+            "type": "string",
+            "default": "null"
+          },
+          {
+            "name": "toDate",
+            "type": "string",
+            "default": "null"
+          },
+          {
+            "name": "vendorNumber",
+            "type": "string",
+            "default": "null"
+          },
+          {
+            "name": "serviceAgreementName",
+            "type": "string",
+            "default": "null"
+          },
+          {
+            "name": "status",
+            "type": "string",
+            "default": "null"
+          }
+        ]
+      },
+      "default": "null"
+    },
+    {
+      "name": "eventSource",
+      "type": "string",
+      "default": "null"
+    },
+    {
+      "name": "eventType",
+      "type": "string",
+      "default": "null"
+    },
+    {
+      "name": "eventId",
+      "type": "string",
+      "default": "null"
+    }
+  ]
+}

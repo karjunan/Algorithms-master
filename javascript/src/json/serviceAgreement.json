@@ -1,0 +1,14 @@
+{
+  "dateTimeOccurred": "2020-04-21T17:03:06.000Z",
+  "data": {
+    "serviceAgreementID": "1E702886-4F2F-48A6-8196-A9B2350DB617",
+    "fromDate": "12/01/2020",
+    "toDate": "03/05/2021",
+    "vendorNumber": "12345678",
+    "serviceAgreementName": "Toyota AMC",
+    "status": "Active"
+  },
+  "eventSource": "ms-vendor-service-agreement",
+  "eventType": "ServiceAgreementCreated",
+  "eventId": "720b54c8-32ea-4800-bbbd-1d3575399137"
+}
