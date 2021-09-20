@@ -1,4 +1,4 @@
-package designPatterns.liskovsSubstitutionPrinciple;
+package designPatterns.liskovsSubstitutionPrinciple.example1;
 
 public class Office extends Building{
 
